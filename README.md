@@ -8,11 +8,13 @@ Hareware requirements:
 To get started, connect the drone over WiFi with the exntension module attached and run *simple flight.py*
 
 Within pyinmageseach:
-*objcenter.py* - helper class for face detection
-*pid.py* - helper class for PID control system
+
+1) *objcenter.py* - helper class for face detection
+2) *pid.py* - helper class for PID control system
 
 Flight testing with face track:
-Run *face track v4.py*
+
+1) Run *face track v4.py*
 
 Parameter testing:
 1) Pan PID
